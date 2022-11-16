@@ -11,5 +11,5 @@
 ## 💻 Contact
 <a href = "https://github.com/jaeminlee-dev"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a> <a href = "https://jaemin-dev.slack.com/"> <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/></a> <a href = "https://www.instagram.com/jlee_dbb/"> <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-ff3399.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeminlee-dev&show_icons=true&theme=radical)
 
