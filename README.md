@@ -1,5 +1,5 @@
 # Jae Min Lee
-### Hi </br>I'm Jaemin Lee, a flutter developer
+### Hi I'm Jaemin Lee, a flutter developer
 ### Come to My Blog :)
 <a href = "https://jaeminlee-dev.github.io/"><img alt="Blog" src ="https://img.shields.io/badge/Blog-FFD400.svg?&style=for-the-badge&logo=GitBook&logoColor=White"/></a>
 
