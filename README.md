@@ -15,17 +15,21 @@ Backend / DevOps Engineer
 
 ### Tech Stack
 
-![Backend](https://skillicons.dev/icons?i=java,spring)
-
-![DevOps](https://skillicons.dev/icons?i=docker,aws,gcp)
-
-![Database](https://skillicons.dev/icons?i=mysql)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,aws,gcp,mysql" />
+</p>
 
 ---
 
 ### Interests
 
-* Backend Architecture
-* DevOps / SRE
-* Cloud Infrastructure
-* Scalable System Design
+- Backend Architecture
+- DevOps / SRE
+- Cloud Infrastructure
+- Scalable System Design
+
+---
+
+### GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeminlee-dev&show_icons=true)
