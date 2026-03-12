@@ -25,8 +25,3 @@
 - Cloud Infrastructure
 - Scalable System Design
 
----
-
-### GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeminlee-dev&show_icons=true)
