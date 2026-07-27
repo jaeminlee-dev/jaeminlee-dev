@@ -26,13 +26,6 @@
   />
 </p>
 
-<!-- DevOps -->
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,github"
-    alt="Docker, Kubernetes, Jenkins, GitHub"
-  />
-</p>
 
 <!-- DevOps -->
 <p>
