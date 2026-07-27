@@ -12,8 +12,20 @@
 
 ### Tech Stack
 
+<!-- Backend -->
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,aws,gcp,mysql" />
+  <img
+    src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,redis"
+    alt="Java, Spring Boot, Spring Security, JPA, MySQL, Redis"
+  />
+</p>
+
+<!-- DevOps -->
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,github"
+    alt="Docker, Kubernetes, Jenkins, GitHub"
+  />
 </p>
 
 ---
