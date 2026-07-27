@@ -12,93 +12,23 @@
 
 ### Tech Stack
 
-<style>
-  .tech-icons {
-    display: inline-flex;
-    align-items: center;
-    gap: 16px;
-  }
-
-  .tech-icons > img,
-  .oracle-icon {
-    width: 48px;
-    height: 48px;
-    flex-shrink: 0;
-  }
-
-  .oracle-icon {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    box-sizing: border-box;
-    border-radius: 12px;
-    background-color: #242938;
-  }
-
-  .oracle-icon img {
-    width: 40px;
-    height: 40px;
-    object-fit: contain;
-  }
-</style>
-
 <!-- Backend -->
-<div class="tech-icons">
-  <img
-    src="https://skillicons.dev/icons?i=java&theme=dark"
-    alt="Java"
-  />
-
-  <img
-    src="https://skillicons.dev/icons?i=spring&theme=dark"
-    alt="Spring"
-  />
-
-  <img
-    src="https://skillicons.dev/icons?i=hibernate&theme=dark"
-    alt="Hibernate"
-  />
-
-  <img
-    src="https://skillicons.dev/icons?i=redis&theme=dark"
-    alt="Redis"
-  />
-
-  <img
-    src="https://skillicons.dev/icons?i=mysql&theme=dark"
-    alt="MySQL"
-  />
-
-  <span class="oracle-icon">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
-      alt="Oracle"
-    />
-  </span>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=hibernate&theme=dark" width="48" height="48" alt="Hibernate" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="Redis" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
+</p>
 
 <!-- DevOps -->
-<div class="tech-icons">
-  <img
-    src="https://skillicons.dev/icons?i=docker&theme=dark"
-    alt="Docker"
-  />
-
-  <img
-    src="https://skillicons.dev/icons?i=kubernetes&theme=dark"
-    alt="Kubernetes"
-  />
-
-  <img
-    src="https://skillicons.dev/icons?i=jenkins&theme=dark"
-    alt="Jenkins"
-  />
-
-  <img
-    src="https://skillicons.dev/icons?i=github&theme=dark"
-    alt="GitHub"
-  />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="48" height="48" alt="Kubernetes" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="48" height="48" alt="Jenkins" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
+</p>
 
 ---
 
